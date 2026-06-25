@@ -6,6 +6,7 @@
   <button>My Official Website (NOT for 3DS)</button>
 </a>
 <h2>Other compatible websites</h2>
+<h3>Boring<\h3>
 <a href="https://google.com">
   <button>google</button>
 </a>
