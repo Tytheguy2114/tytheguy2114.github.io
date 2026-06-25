@@ -7,6 +7,7 @@
 </a>
 <h2>Other compatible websites</h2>
 <h3>Boring
+
 <a href="https://google.com">
   <button>google</button>
 </a>
